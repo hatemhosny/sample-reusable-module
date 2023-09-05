@@ -1,0 +1,30 @@
+{
+  "title": "sample re-usable module",
+  "description": "",
+  "tags": [],
+  "activeEditor": "script",
+  "markup": {
+    "language": "html",
+    "content": ""
+  },
+  "style": {
+    "language": "css",
+    "content": ""
+  },
+  "script": {
+    "language": "javascript",
+    "content": "export const add = (a, b) => a + b;\r\n\r\nexport const subtract = (a, b) => a - b;"
+  },
+  "stylesheets": [],
+  "scripts": [],
+  "cssPreset": "",
+  "processors": [],
+  "customSettings": {},
+  "imports": {},
+  "types": {},
+  "tests": {
+    "language": "typescript",
+    "content": ""
+  },
+  "version": "12"
+}
