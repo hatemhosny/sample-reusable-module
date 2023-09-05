@@ -5,11 +5,11 @@
   "activeEditor": "script",
   "markup": {
     "language": "html",
-    "content": ""
+    "content": "<h1>Hello World!</h1>"
   },
   "style": {
     "language": "css",
-    "content": ""
+    "content": "* {\r\n  box-sizing: border-box;\r\n  margin: 0;\r\n  padding: 0;\r\n}\r\n\r\nbody {\r\n  font-family: sans-serif;\r\n}"
   },
   "script": {
     "language": "javascript",
